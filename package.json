@@ -1,11 +1,11 @@
 {
-  "name": "php-docblocker",
-  "displayName": "PHP DocBlocker",
-  "description": "A simple, dependency free PHP specific DocBlocking package",
+  "name": "laravel-docblocker",
+  "displayName": "Laravel DocBlocker",
+  "description": "A simple, dependency free Laravel specific DocBlocking package",
   "version": "2.7.0",
   "license": "MIT",
-  "publisher": "neilbrayfield",
-  "author": "Neil Brayfield <dev@brayfield.uk>",
+  "publisher": "conradoojr",
+  "author": "Conrado O Jr <conradoojr@outlook.com>",
   "engines": {
     "vscode": "^1.60.0"
   },
