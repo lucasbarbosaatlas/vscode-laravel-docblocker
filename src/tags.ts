@@ -163,7 +163,7 @@ export default class Tags
         },
         {
             tag: '@param',
-            snippet: '@param ${1:mixed} \$${2:name}'
+            snippet: '@param  ${1:mixed}  \$${2:name}'
         },
         {
             tag: '@preserveGlobalState',
