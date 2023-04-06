@@ -1,6 +1,6 @@
 {
-  "name": "laravel-docblocker",
-  "displayName": "Laravel DocBlocker",
+  "name": "vscodelaravel-docblocker",
+  "displayName": "Simple Laravel DocBlocker for VSCODE",
   "description": "A simple, dependency free Laravel specific DocBlocking package",
   "version": "2.7.0",
   "license": "MIT",
